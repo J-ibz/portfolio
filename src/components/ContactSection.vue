@@ -6,7 +6,7 @@
         <p>N'hésitez pas à me contacter en soumettant le formulaire ci-dessous et je vous répondrai dans les plus brefs délais !</p>
         <form action="https://formsubmit.co/ae2cf3bd1c604a1b3b2dcd47af0422fd" method="POST">
           <div class="input name">
-            <label for="name">Name</label>
+            <label for="name">Nom</label>
             <input type="text" name="name" required />
           </div>
           <div class="input email">
