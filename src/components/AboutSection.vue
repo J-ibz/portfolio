@@ -33,7 +33,7 @@
           <footer>
             <a href="https://github.com/J-ibz" target="_blank"><i class="fa-brands fa-github" title="Github"></i></a>
             <a href="https://www.linkedin.com/in/jeremie-ibanez-webdev/" target="_blank" title="Linkedin"><i class="fa-brands fa-linkedin"></i></a>
-            <a href="../assets/2022_CV_Jeremie _Ibanez.pdf" target="_blank" title="Télécharger mon CV" download
+            <a href="../assets/2022_CV_jeremie_ibanez.pdf" target="_blank" title="Télécharger mon CV" download
               ><i class="fa-solid fa-download"></i
             ></a>
           </footer>
