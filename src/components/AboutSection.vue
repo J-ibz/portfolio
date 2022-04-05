@@ -33,16 +33,13 @@
           <footer>
             <a href="https://github.com/J-ibz" target="_blank"><i class="fa-brands fa-github" title="Github"></i></a>
             <a href="https://www.linkedin.com/in/jeremie-ibanez-webdev/" target="_blank" title="Linkedin"><i class="fa-brands fa-linkedin"></i></a>
-            <a href="../assets/2022_CV_jeremie_ibanez.pdf" target="_blank" title="Télécharger mon CV" download
-              ><i class="fa-solid fa-download"></i
-            ></a>
+            <a href="/files/2022_CV_jeremie_ibanez.pdf" target="_blank" title="Télécharger mon CV" download><i class="fa-solid fa-download"></i></a>
           </footer>
         </div>
       </div>
     </div>
   </section>
 </template>
-
 <script>
 export default {
   name: "AboutComp",
@@ -66,7 +63,7 @@ export default {
 .container {
   margin-inline: auto;
   margin-block: 60px;
-  padding-inline: 30px;
+  /* padding-inline: 30px; */
   max-width: 480px;
   font-family: "Inter", sans-serif;
 }
