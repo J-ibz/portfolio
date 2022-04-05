@@ -2,7 +2,7 @@
   <section class="hero">
     <div class="container">
       <p>Hello !</p>
-      <p>Je m'appelle<span> Jérémie</span>, je suis développeur Fullstack et je créer des sites web grâce à la télékinésie 😵.</p>
+      <p>Je m'appelle<span> Jérémie</span>, je suis développeur Fullstack et je crée des sites web grâce à la télékinésie 😵.</p>
       <router-link :to="{ hash: '#projects' }"><button class="button">Voir mon travail</button></router-link>
     </div>
   </section>

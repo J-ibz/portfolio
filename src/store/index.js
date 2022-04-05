@@ -9,7 +9,7 @@ const store = createStore({
         title: "Groupomania",
         type: "Fullstack",
         description:
-          "Groupomania est un projet Fullstack qui à mis a contribution tous mes savoirs acquis pendant ma formation allant du design à la construction des routes, des models, des controllers, de l'architecture de l'app, des appels API etc.",
+          "Groupomania est un projet Fullstack qui a mis a contribution tous mes savoirs acquis pendant ma formation allant du design à la construction des routes, des models, des controllers, de l'architecture de l'app, des appels API etc.",
         difficulties:
           "Groupomania m'a permis d'appréhender les notions de lifecycle des composants d'un framework, l'utilité d'un router ainsi que les spécificités d'une base de données relationnelle.",
         tools: ["HTML", "CSS", "Vue.js", "Axios", "Node.js", "Express", "MySQL", "Sequelize"],
