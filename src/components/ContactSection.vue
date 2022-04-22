@@ -18,7 +18,7 @@
             <textarea placeholder="Say Hi! 👋" maxlength="5000" name="message" required></textarea>
           </div>
           <input type="hidden" name="_captcha" value="false" />
-          <input type="hidden" name="_next" value="http://localhost:8080/thanks" />
+          <input type="hidden" name="_next" value="https://www.jeremie-ibanez.com/thanks" />
           <button type="submit" class="submit-button">Envoyer</button>
         </form>
       </div>
